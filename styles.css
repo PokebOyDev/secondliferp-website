@@ -1,0 +1,44 @@
+* {
+    font-family: 'Assistant';
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+body {
+    background-color: rgba(18, 101, 196, 0.397);
+    background-image: url('https://cdn.discordapp.com/attachments/835405639500038184/835406166141829160/Franklin-Clinton-GTA-V-HD-Games-4k-Wallpapers-Images-.jpg');
+    background-position: unset;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-blend-mode: color;
+}
+
+.main-container p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    margin-top: 10px;
+    font-family: "Assistant";
+    text-decoration-color: rgb(114, 51, 167);
+    color: rgb(255, 255, 255);
+}
+
+.main-container img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    margin-top: 180px;
+}
+
+.main-container nav {
+    padding: 15px 0px 0px 15px;
+}
+
+.main-container nav ul li {
+    list-style: none;
+    text-decoration: none;
+}

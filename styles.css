@@ -34,11 +34,11 @@ body {
     margin-top: 180px;
 }
 
-.main-container nav {
-    padding: 15px 0px 0px 15px;
-}
 
 .main-container nav ul li {
     list-style: none;
     text-decoration: none;
+    display: inline-block;
+    padding: 15px 0px 0px 15px;
 }
+
